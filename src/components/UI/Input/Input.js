@@ -53,6 +53,7 @@ const input = ( props ) => {
             {inputElement}
         </div>
     );
-}
+
+};
 
 export default input;
